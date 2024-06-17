@@ -1,11 +1,11 @@
 ### **welcome! <img src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/emoji/wave.png" width="20" />**
 **name's sen, and you got onto my github profile**<br />
 
-🥴 I am a useless piece of fox 🦊, that does some stuff as an ambient musician and a part-time 3d artist (blender/substance). 
+🥴 I am a useless piece of fox 🦊, that does some stuff as an ambient musician and a part-time 3d artist. 
 <br /><br />
-currently living in the UK 🇬🇧, this place sucks lmao
+currently living in and exploring 🇬🇪 Batumi, Georgia
 <br /><br />
-I am available on **<a href="https://fiverr.com/senkodev">Fiverr</a>** if you are interested in a VRChat avatar commission 💖
+I am available on **<a href="https://fiverr.com/senkodev">Fiverr</a>** or **<a href="https://x.com/senkodev">X</a>** if you are interested in getting a VRChat avatar commission 💖
 
 ---
 
@@ -14,7 +14,7 @@ I am available on **<a href="https://fiverr.com/senkodev">Fiverr</a>** if you ar
 <a href="mailto:fox@senko.dev">
   <img alt="Proton" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/mail.svg" />
 </a>
-<a href="https://twitter.com/senkodev">
+<a href="https://x.com/senkodev">
   <img alt="Twitter" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/twitter.svg" />
 </a>
 <a href="https://last.fm/user/senkodev">
