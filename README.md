@@ -7,7 +7,7 @@ currently living in and exploring 🇬🇪 Batumi, Georgia
 <br /><br />
 I am available on **<a href="https://fiverr.com/senkodev">Fiverr</a>** or **<a href="https://x.com/senkodev">X</a>** if you are interested in getting a VRChat avatar commission 💖
 
-I also work as a manager and a developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
+I also work as a CEO, designer and developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
 
 More info [clickable image] here:
 
