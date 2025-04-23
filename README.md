@@ -2,7 +2,7 @@
 **name's sen, and you got onto my github profile**<br />
 
 🥴 I am a useless piece of fox 🦊, that does some stuff as an ambient musician and a part-time 3d artist. 
-<br /><br />
+<br />
 
 I work as a CEO, Lead Designer and a Frontend Developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
 
