@@ -19,7 +19,7 @@ More info [clickable image] here:
 
 ### **socials** / **contacts**
 
-<a href="mailto:fox@senko.dev">
+<a href="mailto:github+contact@senko.dev">
   <img alt="Proton" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/mail.svg" />
 </a>
 <a href="https://x.com/senkodev">
