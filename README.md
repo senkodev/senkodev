@@ -1,5 +1,5 @@
 ### **Welcome! <img src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/emoji/wave.png" width="20" />**
-**Name's sen, and you got onto my github profile**<br />
+**Name's Sen, and you got onto my GitHub profile**<br />
 
 I work as a CEO, Lead Designer and a Frontend Developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
 
