@@ -1,9 +1,7 @@
 ### **Welcome! <img src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/emoji/wave.png" width="20" />**
 **Name's Sen, and you got onto my GitHub profile**<br />
 
-I work as a CEO, Lead Designer and a Frontend Developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
-
-More info here:
+I work as a CEO, Lead Designer and a Frontend Developer at
 
 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">
   <img alt="Senko Digital Logo" align="left" width="350px" src="https://raw.githubusercontent.com/senkodev/senkodev/refs/heads/master/icons/senkod-logo.png" />
@@ -30,9 +28,6 @@ More info here:
 </a>
 
 <br />
-
----
-
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsenkodev%2Fsenkodev&count_bg=%23C21D6A&title_bg=%23121212&icon=&icon_color=%23C21D6A&title=hits&edge_flat=false)](https://senko.dev)
+<br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1D9CDG)
