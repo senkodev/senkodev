@@ -1,12 +1,9 @@
-### **welcome! <img src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/emoji/wave.png" width="20" />**
-**name's sen, and you got onto my github profile**<br />
-
-🥴 I am a useless piece of fox 🦊, that does some stuff as an ambient musician and a part-time 3d artist. 
-<br />
+### **Welcome! <img src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/emoji/wave.png" width="20" />**
+**Name's sen, and you got onto my github profile**<br />
 
 I work as a CEO, Lead Designer and a Frontend Developer at 🦊 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">Senko Digital</a>.
 
-More info [clickable image] here:
+More info here:
 
 <a href="https://senko.digital?utm_source=github&utm_campaign=senkodev">
   <img alt="Senko Digital Logo" align="left" width="350px" src="https://raw.githubusercontent.com/senkodev/senkodev/refs/heads/master/icons/senkod-logo.png" />
@@ -27,9 +24,6 @@ More info [clickable image] here:
 </a>
 <a href="https://last.fm/user/senkodev">
   <img alt="Last.fm" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/lastfm.svg" />
-</a>
-<a href="https://steamcommunity.com/id/senkodev">
-  <img alt="Steam" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/steam.svg" />
 </a>
 <a href="https://open.spotify.com/artist/3hfz8YwOpMlOYFCXE04HMU">
   <img alt="Spotify" align="left" width="23px" src="https://raw.githubusercontent.com/senkodev/senkodev/master/icons/socials/spotify.svg" />
